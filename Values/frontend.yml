@@ -1,0 +1,6 @@
+appName: frontend
+appPort: 80
+replicas: 2
+serviceType: LoadBalancer
+config_values:
+  test: test
